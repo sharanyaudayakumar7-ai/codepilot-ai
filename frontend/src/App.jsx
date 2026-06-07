@@ -19,7 +19,7 @@ function App() {
 
     try {
       const response = await axios.post(
-        "http://127.0.0.1:8000/analyze",
+        "https://codepilot-ai-5v1c.onrender.com/analyze",
         {
           repo_url: repoUrl,
         }
