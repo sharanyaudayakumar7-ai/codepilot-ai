@@ -2,14 +2,16 @@
 
 AI-powered GitHub Repository Analysis Platform built with FastAPI, React, and OpenRouter.
 
-## Features
+🚀 Live Demo:
+https://your-vercel-url.vercel.app
 
-* Analyze GitHub repositories automatically
-* Detect project purpose
-* Identify technology stack
-* Understand repository architecture
-* Generate AI-powered project summaries
-* Modern React frontend with FastAPI backend
+## Features
+- GitHub Repository Analysis
+- AI Architecture Detection
+- Tech Stack Identification
+- Repository Summarization
+- FastAPI Backend
+- React Frontend
 
 ## Tech Stack
 
@@ -45,6 +47,14 @@ AI-powered GitHub Repository Analysis Platform built with FastAPI, React, and Op
 * Security Analysis
 * Dependency Analysis
 * PDF Report Export
+
+# CodePilot AI
+
+AI-powered GitHub Repository Analysis Platform
+
+🚀 Live Demo:
+https://your-vercel-url.vercel.app
+
 
 ## Author
 
